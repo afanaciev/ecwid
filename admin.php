@@ -123,4 +123,4 @@
 	echo '<input type="submit" name="f_submit" value="' . t('Сохранить изменения', 'plugins') . '" style="margin: 25px 0 5px 0;">';
 	echo '</form>';
 
-?>
+#end of file
